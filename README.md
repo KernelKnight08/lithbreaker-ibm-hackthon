@@ -12,7 +12,7 @@
   rewriting imports.
 
     ## 💡 Our Solution
-    **Lithbreaker** is a custom Agentic Skill built natively for the
+   **Lithbreaker** is a custom Agentic Skill built natively for the
   **IBM Bob IDE**.
     By simply running a single slash command, Lithbreaker
   orchestrates a multi-agent workflow that acts as a Principal
